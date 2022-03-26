@@ -1,7 +1,7 @@
 name: StaffMode
 author: ItsMax123
 main: Max\StaffMode\Main
-version: 2.1.1
+version: 2.2.2
 api: [3.0.0]
 
 commands:
